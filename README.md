@@ -5,12 +5,12 @@
 
 ### 🔹 VisualLR-CV (Computer Vision)
 * **Models:** ResNet18, ResNet50
-* **Datasets:** CIFAR-100, **ImageNet-1K**
+* **Datasets:** CIFAR-100, ImageNet-1K
 * **Code Origin:** Adapted from the official [PyTorch ImageNet Example](https://github.com/pytorch/examples/blob/main/imagenet/main.py).
 
 ### 🔹 VisualLR-NanoGPT (Large Language Models)
 * **Models:** GPT-2 (124M / Medium / Large)
-* **Datasets:** OpenWebText, **FineWeb-10BT**
+* **Datasets:** OpenWebText, FineWeb-10BT
 * **Code Origin:** Built upon the legendary [nanoGPT](https://github.com/karpathy/nanoGPT) by Andrej Karpathy.
 
 ---
