@@ -21,7 +21,7 @@
 ### 🔹 VisualLR-Multiclass
 * **Task:** Multiclass Classification
 
-* **Code Origin:** Reference implementations from:
+### **Code Origin:** Reference implementations from:
   * [**KATE**](https://github.com/nazya/KATE) (Remove that Square Root: A New Efficient Scale-Invariant Version of AdaGrad)
   * [**Shuffling**](https://github.com/lamnguyen-mltd/shuffling) (A Unified Convergence Analysis for Shuffling-Type Gradient Methods)
 
